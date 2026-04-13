@@ -1,6 +1,6 @@
  #  Generalised Data Structure Library (C++)
 
-## 📌 Overview
+##  Overview
 
 This project is a **Generic Data Structure Library implemented in C++ using templates**, allowing reusable and scalable implementations of core data structures.
 
@@ -13,7 +13,7 @@ It demonstrates strong understanding of:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Build reusable data structures using templates
 * Understand internal working of linked structures
@@ -22,7 +22,7 @@ It demonstrates strong understanding of:
 
 ---
 
-## 🧠 Data Structures Implemented
+##  Data Structures Implemented
 
 * Singly Linked List
 * Doubly Linked List
@@ -33,7 +33,7 @@ It demonstrates strong understanding of:
 
 ---
 
-## 🛠️ Concepts Covered
+##  Concepts Covered
 
 * C++ Templates (`template<class T>`)
 * Dynamic Memory Allocation (`new`, `delete`)
@@ -44,7 +44,7 @@ It demonstrates strong understanding of:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * C++
 * STL Concepts (Design Inspiration)
@@ -53,7 +53,7 @@ It demonstrates strong understanding of:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the Repository
 
@@ -95,7 +95,7 @@ Generalised-DS-Library/
 
 ---
 
-## 💡 Features
+##  Features
 
 * Template-based (supports any data type)
 * Modular and reusable code
@@ -104,7 +104,7 @@ Generalised-DS-Library/
 
 ---
 
-## 🚀 Use Cases
+##  Use Cases
 
 * Learning Data Structures from scratch
 * Interview preparation (TCS, Infosys, product-based companies)
@@ -112,7 +112,7 @@ Generalised-DS-Library/
 
 ---
 
-## 🔥 Future Enhancements
+##  Future Enhancements
 
 * Add Trees and Graphs
 * Implement Iterators (STL-like)
